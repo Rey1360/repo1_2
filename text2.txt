@@ -1,1 +1,2 @@
 update_1 on hotfix
+update_2 on master!
