@@ -1,2 +1,3 @@
 update_1 on remote
 update_2 on remote
+update_3 on repo_1_clone
